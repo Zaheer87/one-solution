@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"app/technician/register/page.tsx -> @/lib/appwrite/config\":{\"id\":\"app/technician/register/page.tsx -> @/lib/appwrite/config\",\"files\":[]}}"

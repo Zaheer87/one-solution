@@ -5,7 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import { useAuth } from '@/context/AuthContext';
 import { ProtectedRoute } from '@/components/ProtectedRoute';
 import { getServices, getTechnicians, createBooking, getCategories } from '@/lib/appwrite/services';
-import { ServiceItem, Booking, Category } from '@/lib/types';
+import { ServiceItem, Booking, Category, TechnicianProfile } from '@/lib/types';
 import {
   Wrench,
   Calendar,
